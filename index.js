@@ -10,3 +10,4 @@ var jsonx = JSON.stringify(data);
 var datax = JSON.parse(jsonx);
 console.log(`json = ${jsonx}`);
 console.log(datax);
+console.log("test newpull");
